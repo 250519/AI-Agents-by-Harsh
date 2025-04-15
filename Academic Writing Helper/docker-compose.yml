@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+version: '3.4'
+
+services:
+  ultimatum:
+    image: ultimatum
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+=======
+version: '3.4'
+
+services:
+  ultimatum:
+    image: ultimatum
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+>>>>>>> c79d168fc2a73fa44bed39c112ce8eb325294a81
